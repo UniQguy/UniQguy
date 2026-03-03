@@ -28,8 +28,10 @@ A virtual stock trading platform designed to help beginners understand the marke
 ---
 
 ## 📊 GitHub Stats
-![UniQguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=UniQguy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UniQguy&layout=compact&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=UniQguy&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="UniQguy's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UniQguy&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" />
+</p>
 
 ---
 
@@ -40,5 +42,5 @@ When I'm not debugging, I'm usually:
 * Exploring 3D web environments with Three.js.
 
 ## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/YOUR_USER_HERE)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-ray-285914351)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/@uniqguy)
