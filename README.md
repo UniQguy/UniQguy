@@ -28,10 +28,8 @@ A virtual stock trading platform designed to help beginners understand the marke
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=UniQguy&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="UniQguy's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UniQguy&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" />
-</p>
+![UniQguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=UniQguy&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UniQguy&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
