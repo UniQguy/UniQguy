@@ -36,6 +36,7 @@ When I'm not debugging, I'm usually:
 * Creating anime and manhwa edits for my YouTube channel: **[undolight](https://www.youtube.com/@undolight)**.
 * Solving cybersecurity challenges for my IMCA coursework.
 * Exploring 3D web environments with Three.js.
+* Surfing Reddit Learning More of Current Affairs & Geoplotical Wars
 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-ray-285914351)
